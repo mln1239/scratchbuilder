@@ -1,4 +1,4 @@
-<img src="./scratch builder.good.svg" width="64" height="64" /><img src="./scratch builder.svg" width="100" height="100" />
+<img src="./scratch builder.good.svg" width="100" height="100" />  <img src="./scratch builder.svg" width="100" height="100" />
 
 # scratchbuilder
 Create extensions for PenguinMod using block-based coding.
