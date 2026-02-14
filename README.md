@@ -8,6 +8,3 @@ This project is not finished and is still being worked on. Expect bugs and probl
 Clone the repo
 Run npm i --force in a terminal inside the folder where the repo is
 Run npm run bnp in a terminal inside the folder where the repo is
-<button>gg
-open:(https://studio.penguinmod.com/editor.html)
-</button>
